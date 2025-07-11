@@ -1,5 +1,4 @@
 import 'dart:async';
-
 import 'package:get/get.dart';
 import 'package:ride_sharing_user_app/features/splash/domain/models/config_model.dart';
 import 'package:ride_sharing_user_app/data/api_checker.dart';

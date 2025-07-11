@@ -1,9 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_switch/flutter_switch.dart';
 import 'package:get/get.dart';
 import 'package:ride_sharing_user_app/features/settings/widget/language_select_bottomsheet.dart';
 import 'package:ride_sharing_user_app/localization/localization_controller.dart';
-import 'package:ride_sharing_user_app/theme/theme_controller.dart';
 import 'package:ride_sharing_user_app/util/app_constants.dart';
 import 'package:ride_sharing_user_app/util/dimensions.dart';
 import 'package:ride_sharing_user_app/util/images.dart';

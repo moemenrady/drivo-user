@@ -1,0 +1,2 @@
+D:/my_git_hub/projects/drivo-user/android/app/.cxx/Debug/164g2r1f/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/my_git_hub/projects/drivo-user/android/app/.cxx/Debug/164g2r1f/armeabi-v7a/CMakeFiles/rebuild_cache.dir

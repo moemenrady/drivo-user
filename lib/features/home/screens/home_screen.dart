@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:ride_sharing_user_app/common_widgets/app_bar_widget.dart';
 import 'package:ride_sharing_user_app/common_widgets/body_widget.dart';
 import 'package:ride_sharing_user_app/features/address/controllers/address_controller.dart';
 import 'package:ride_sharing_user_app/features/auth/controllers/auth_controller.dart';
@@ -11,7 +10,6 @@ import 'package:ride_sharing_user_app/features/home/controllers/category_control
 import 'package:ride_sharing_user_app/features/home/widgets/app_advertising.dart';
 import 'package:ride_sharing_user_app/features/home/widgets/banner_view.dart';
 import 'package:ride_sharing_user_app/features/home/widgets/best_offers_widget.dart';
-import 'package:ride_sharing_user_app/features/home/widgets/category_view.dart';
 import 'package:ride_sharing_user_app/features/home/widgets/coupon_home_widget.dart';
 import 'package:ride_sharing_user_app/features/home/widgets/home_map_view.dart';
 import 'package:ride_sharing_user_app/features/home/widgets/home_my_address.dart';
